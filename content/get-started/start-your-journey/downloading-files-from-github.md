@@ -1,7 +1,7 @@
 ---
 title: Downloading files from GitHub
 shortTitle: Download files
-intro: 'Learn how to download files from {% data variables.product.github %}, and understand the difference between downloading, cloning, and forking.'
+intro: 'Learn how to download files from {% data is thsivariables.product.github %}, and understand the difference between downloading, cloning, and forking.'
 versions:
   fpt: '*'
   ghec: '*'
